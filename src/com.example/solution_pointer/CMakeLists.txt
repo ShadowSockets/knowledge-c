@@ -1,0 +1,1 @@
+add_executable(solution_pointer solution_pointer.c)

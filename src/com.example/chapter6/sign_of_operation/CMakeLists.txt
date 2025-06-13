@@ -1,0 +1,1 @@
+add_executable(sign_of_operation SignOfOperation.c)

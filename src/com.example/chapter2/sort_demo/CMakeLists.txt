@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(sort_demo SortDemo.c)

@@ -1,0 +1,1 @@
+add_executable(struct11 struct11.c)

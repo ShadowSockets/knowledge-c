@@ -1,0 +1,1 @@
+add_executable(static3 Static3.c Add.c)

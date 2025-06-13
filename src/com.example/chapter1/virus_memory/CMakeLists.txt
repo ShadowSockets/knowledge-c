@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(virus_memory VirusMemory.c)

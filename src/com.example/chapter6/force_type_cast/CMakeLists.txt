@@ -1,0 +1,1 @@
+add_executable(force_type_cast ForceTypeCast.c)

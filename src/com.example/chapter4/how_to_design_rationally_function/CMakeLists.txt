@@ -1,0 +1,1 @@
+add_executable(how_to_design_rationally_function HowToDesignRationallyFunction.cpp)

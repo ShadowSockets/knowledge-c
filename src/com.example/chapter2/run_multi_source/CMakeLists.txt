@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(run_multi_source 11.c)

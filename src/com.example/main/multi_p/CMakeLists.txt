@@ -1,0 +1,1 @@
+add_executable(multip_p multip.c)

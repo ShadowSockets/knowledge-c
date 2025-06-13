@@ -1,0 +1,1 @@
+add_executable(array_use ArrayUse.c)

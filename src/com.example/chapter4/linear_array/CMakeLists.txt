@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(linear_array LinearArray.cpp)

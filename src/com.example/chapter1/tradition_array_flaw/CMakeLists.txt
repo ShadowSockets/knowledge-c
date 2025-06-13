@@ -1,0 +1,1 @@
+add_executable(tradition_array_flaw TraditionArrayFlaw.c)

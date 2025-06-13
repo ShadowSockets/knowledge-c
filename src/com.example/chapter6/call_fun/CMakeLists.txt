@@ -1,0 +1,1 @@
+add_executable(call_fun CallFun.c)

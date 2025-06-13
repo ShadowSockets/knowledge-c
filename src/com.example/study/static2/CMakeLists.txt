@@ -1,0 +1,1 @@
+add_executable(static2 Static2.c Add.c)

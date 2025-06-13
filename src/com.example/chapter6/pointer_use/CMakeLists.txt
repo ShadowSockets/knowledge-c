@@ -1,0 +1,1 @@
+add_executable(pointer_use PointerUser.c)

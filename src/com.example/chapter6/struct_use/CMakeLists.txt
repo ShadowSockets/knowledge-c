@@ -1,0 +1,1 @@
+add_executable(struct_use StructUse.c)

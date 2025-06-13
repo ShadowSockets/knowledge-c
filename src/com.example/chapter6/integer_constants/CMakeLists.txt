@@ -1,0 +1,1 @@
+add_executable(integer_constants integer_constants.c)

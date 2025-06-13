@@ -1,0 +1,1 @@
+add_executable(multi_p2 multip2.c)

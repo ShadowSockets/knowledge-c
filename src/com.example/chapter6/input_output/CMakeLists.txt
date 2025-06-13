@@ -1,0 +1,1 @@
+add_executable(input_output InputOutput.c)

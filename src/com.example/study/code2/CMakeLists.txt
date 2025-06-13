@@ -1,0 +1,1 @@
+add_executable(code2 Code2.c)

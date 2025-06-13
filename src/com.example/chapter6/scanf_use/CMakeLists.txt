@@ -1,0 +1,1 @@
+add_executable(scanf_use ScanfUse.c)

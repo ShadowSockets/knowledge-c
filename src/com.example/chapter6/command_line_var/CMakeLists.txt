@@ -1,0 +1,1 @@
+add_executable(command_line_var CommandLineVar.c)

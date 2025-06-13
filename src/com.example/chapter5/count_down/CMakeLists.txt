@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(count_down CountDown.c)

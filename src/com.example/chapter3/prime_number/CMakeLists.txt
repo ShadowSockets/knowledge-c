@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(prime_number PrimeNumber.c)

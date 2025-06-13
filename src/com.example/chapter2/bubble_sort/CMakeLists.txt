@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(bubble_sort BubbleSort.c)

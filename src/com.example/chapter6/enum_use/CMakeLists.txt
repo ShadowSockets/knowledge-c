@@ -1,0 +1,1 @@
+add_executable(enum_use EnumUse.c)

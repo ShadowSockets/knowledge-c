@@ -1,0 +1,1 @@
+add_executable(array Ab.c Cd.c)

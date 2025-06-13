@@ -1,0 +1,1 @@
+add_executable(volatile_use VolatileUse.c)

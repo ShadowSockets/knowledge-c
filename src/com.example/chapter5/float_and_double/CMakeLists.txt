@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(float_and_double FloatAndDouble.c)

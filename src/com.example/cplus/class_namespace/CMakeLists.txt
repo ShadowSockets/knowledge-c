@@ -1,0 +1,1 @@
+add_executable(class_namespace Demo3.cpp)

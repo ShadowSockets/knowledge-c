@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(scanf_demo ScanfDemo.c)

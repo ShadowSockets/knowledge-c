@@ -1,0 +1,1 @@
+add_executable(class Demo1.cpp)

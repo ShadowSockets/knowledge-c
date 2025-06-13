@@ -1,0 +1,1 @@
+add_executable(dynamic_memory_cross_function DynamicMemoryCrossFunction.cpp)

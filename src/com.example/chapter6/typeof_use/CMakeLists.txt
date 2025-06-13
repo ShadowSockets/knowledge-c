@@ -1,0 +1,1 @@
+add_executable(typeof_use TypeOfUse.c)

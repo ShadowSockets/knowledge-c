@@ -1,0 +1,2 @@
+
+ADD_EXECUTABLE(dynamic_memory_allocation_demo DynamicMemoryAllocationDemo.cpp)

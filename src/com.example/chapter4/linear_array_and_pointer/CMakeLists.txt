@@ -1,0 +1,1 @@
+add_executable(linear_array_and_pointer LinearArrayAndPointer.cpp)

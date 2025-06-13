@@ -1,0 +1,1 @@
+add_executable(tree2 binarysearchtree.c)

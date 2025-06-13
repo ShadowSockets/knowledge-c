@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(constants_store ConstantsStore.c)
